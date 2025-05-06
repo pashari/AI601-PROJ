@@ -1,0 +1,29 @@
+# macOS junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Logs and outputs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Docker volumes (if mounted)
+db-data/
