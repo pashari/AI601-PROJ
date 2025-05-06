@@ -1,6 +1,6 @@
 # AI601-PROJ
 
-```
+
 # 📰 Urdu News Classification Pipeline
 
 A modular ETL + ML + Dashboard project to scrape Urdu news articles, classify them using an ML model, and visualize predictions through a live dashboard.
@@ -9,7 +9,6 @@ A modular ETL + ML + Dashboard project to scrape Urdu news articles, classify th
 
 ## 🚀 Architecture Overview
 
-```
 
 Airflow DAG (scraper → preprocessing → store in Postgres)
 |
